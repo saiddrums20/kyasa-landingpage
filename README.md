@@ -18,6 +18,10 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+
+### Deploy changes to the live page
+```
+npm run deploy
 ```
 
 ### Customize configuration
